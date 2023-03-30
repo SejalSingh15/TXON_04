@@ -1,4 +1,4 @@
 # TXON_04
 Portfolio
 
-Portfolio website.
+This a portfolio website using basic html , css and javascript.
